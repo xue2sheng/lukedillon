@@ -1,5 +1,5 @@
-all: src/main.go
-	go build -o build/lukedillon src/main.go
+all: main.go
+	go build 
 
-clear: ./build/lukedillon
-	rm -rf ./build/lukedillon
+clean: lukedillon
+	rm -rf lukedillon
