@@ -1,3 +1,3 @@
-module xue2sheng.com/lukedillon
+module github.com/xue2sheng/lukedillon
 
-go 1.21.3
+go 1.21
